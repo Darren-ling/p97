@@ -1,0 +1,30 @@
+#mailbox{
+    height:80px;
+    width:80px;
+}
+#winter{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+body{
+    background-color: #13b1bd;
+    font-family: 'Indie Flower', cursive;
+}
+#div1{
+    background-color: white;
+    width:40%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+#log_in_button{
+    width:30%;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+}
+#Witter1{
+    font-size: 40px;
+    font-family: 'Bruno Ace SC', cursive;
+}

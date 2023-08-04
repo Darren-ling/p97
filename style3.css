@@ -1,0 +1,52 @@
+#mailbox{
+    height:80px;
+    width:80px;
+}
+#winter{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+body{
+    background-color: #13b1bd;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+#Witter1{
+    font-size: 40px;
+    font-family: 'Bruno Ace SC', cursive;
+}
+#d1{
+    background-color: white;
+    width:40%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+#b_logout,#b1{
+    width:30%;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+#b_logout{
+    float: right;
+    width:10%;
+    background-color: crimson;
+}
+#textbox2{
+    width:60%;
+    height:5%;
+    border:2px black solid;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+}
+#b1{
+    width:10%;
+}
+#d2{
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
